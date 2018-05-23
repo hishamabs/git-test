@@ -1,0 +1,24 @@
+{
+  "name": "git-cast",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1Babs%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5BC%1B%5BC%1B%5BC%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BC/git-test.git%1B%5B3~%1B%5B3~.git"
+  },
+  "author": "Hisham Aburas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1Babs%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5BC%1B%5BC%1B%5BC%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BC/git-test.git%1B%5B3~%1B%5B3~/issues"
+  },
+  "homepage": "https://github.com/%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1Babs%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5BC%1B%5BC%1B%5BC%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BC/git-test.git%1B%5B3~%1B%5B3~#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
